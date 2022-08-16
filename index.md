@@ -1,10 +1,8 @@
 ---
 date: 2019-09-08
 draft: false
-title: Home
+title: Livestream
 ---
-
-## Welcome to Swan Media Live
 
 Your livestream will be available below, or via the direct link: [youtube.com/swanmedia](https://youtube.com/swanmedia)
 
