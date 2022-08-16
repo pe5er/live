@@ -4,7 +4,7 @@ draft: false
 title: Livestream
 ---
 
-Your livestream will be available below, or via the direct link: [youtube.com/swanmedia](https://youtube.com/swanmedia)
+Your livestream will be available below, or via the direct link: [youtube/swanmedia](https://www.youtube.com/channel/UCaQx21eWZusGXXMJ62YSfaw)
 
 If there are any issues with the stream, please contact us via email at [peter@swan.media](mailto:peter@swan.media)
 
